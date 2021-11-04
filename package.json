@@ -1,0 +1,8 @@
+{
+  "name": "cpnt262-a4",
+  "main": "app.js",
+  "author": "Robin Pradhan",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
